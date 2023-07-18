@@ -28,6 +28,20 @@ A estrutura do  URL geralmente é composta por:
 ![protocolo.PNG](img/protocolo.PNG)
 Exemplo de estrutura URL.Fonte: Hostinger Tutoriais.
 
+## O que é o protocolo TCP/IP?
+R: O protocolo TCP/IP é um conjunto de regras usado em redes de computadores para troca de dados. O IP cuida do  endereçamento e roteamento  dos pacotes de dados, enquanto o TCP garante a  entrega correta e confiável dos dados. É essencial para a comunicação na Internet.
+
+ 	Exemplo: ao acessar um site, o TCP/IP estabelece a conexão,  divide os dados em segmentos, roteia-os pela Internet e os  reorganiza no destino. Garante que a página seja exibida corretamente no navegador. Simplificando, o TCP/IP permite a troca de informações entre dispositivos em redes, tornando possível a navegação e a comunicação online.
+
+## O que é DNS?
+
+R:O DNS é um sistema que  traduz nomes de domínio em endereços IP. Ele permite que você acesse sites usando  nomes amigáveis , em vez de números de IP.
+
+Exemplo: quando você digita um nome de domínio, como www.exemplo.com, o DNS localiza o endereço IP correspondente, como 203.0.113.1. Isso permite que seu dispositivo se conecte ao servidor correto e exiba o site solicitado.
+
+O DNS é essencial para a navegação na web, pois simplifica o acesso aos sites sem a necessidade de memorizar números de IP. Ele atua tornando a experiência online mais  conveniente e acessível.
+
+
 ## O que é o protocolo HTTP? - RICK
 R: O HTTP é um protocolo usado na Internet que permite aos navegadores solicitar informações de servidores e receber respostas.
 Ele é usado para acessar páginas da web e outros recursos online. O HTTP segue o modelo  cliente-servidor , onde o navegador envia solicitações e o servidor processa e envia respostas.
@@ -37,6 +51,9 @@ O protocolo é stateless, tratando cada solicitação independentemente.
 R: Uma API (Interface de Programação de Aplicativos) é como um canal de comunicação que permite que diferentes aplicativos ou sistemas interajam entre si. Ela define regras e formatos para essa interação.
 Uma API REST é um tipo específico de API que segue certas diretrizes para facilitar a comunicação entre aplicativos. Ela usa a internet como base e utiliza URLs (endereços) e métodos HTTP (como GET e POST) para solicitar e enviar informações.
 Em termos mais simples.
+
+
+ 	
 
 ---
 ## Fontes:
