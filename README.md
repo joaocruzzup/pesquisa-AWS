@@ -28,12 +28,12 @@ A estrutura do  URL geralmente é composta por:
 ![protocolo.PNG](img/protocolo.PNG)
 Exemplo de estrutura URL.Fonte: Hostinger Tutoriais.
 
-## O que é o protocolo TCP/IP?
+## O que é o protocolo TCP/IP? - Márlen
 R: O protocolo TCP/IP é um conjunto de regras usado em redes de computadores para troca de dados. O IP cuida do  endereçamento e roteamento  dos pacotes de dados, enquanto o TCP garante a  entrega correta e confiável dos dados. É essencial para a comunicação na Internet.
 
  	Exemplo: ao acessar um site, o TCP/IP estabelece a conexão,  divide os dados em segmentos, roteia-os pela Internet e os  reorganiza no destino. Garante que a página seja exibida corretamente no navegador. Simplificando, o TCP/IP permite a troca de informações entre dispositivos em redes, tornando possível a navegação e a comunicação online.
 
-## O que é DNS?
+## O que é DNS? - Márlen
 
 R:O DNS é um sistema que  traduz nomes de domínio em endereços IP. Ele permite que você acesse sites usando  nomes amigáveis , em vez de números de IP.
 
