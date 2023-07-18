@@ -1,6 +1,18 @@
 # pesquisa-AWS
 Repositório referente a pesquisa que envolve AWS do programa catalisa
 
+## O que é Iaas, Paas, Saas?
+R: São modelos de serviços em nuvem que permitem armazenar e acessar dados pela internet, sem precisar de servidores locais.
+
+- IaaS (Infrastructure as a Service) - Infraestrutura como Serviço:
+Com o IaaS, as empresas podem alugar a capacidade de espaço de armazenamento, poder de processamento e memória, entre outros,, de acordo com suas necessidades com empresas que oferecem esse tipo de serviço. Exemplo: AWS
+<br> <br>
+- PaaS (Platform as a Service) - Plataforma como Serviço:
+Além de oferecer todos os itens básicos da IaaS, o PaaS fornece uma plataforma para desenvolvimento de aplicações oferecidas na nuvem proporcionando todo um sistema de infraestrutura, armazenamento e comunicação. Exemplos: Servidores que hospedam sites
+  <br> <br>
+- SaaS (Software as a Service) - Software como Serviço:
+A empresa que oferece o serviço é responsável por hospedar e disponibilizar  o aplicativo aos usuários finais. Em vez de vender o aplicativo para outra empresa hospedar, ela mesma mantém o software em seus próprios servidores e fornece acesso aos usuários por meio da internet. Exemplos: Whatsapp, LinkedIn e Facebook.
+
 ## O que é World Wide Web? - MURYLLO
 R:World wide web ou WWW como conhecemos, significa literalmente uma teia de aranha mundial , normalmente chamamos de Web, é um sistema de documentos públicos colocados e disponibilizados na internet, em um formato de hipertexto acessível através de um programa de computador chamado, browser ou navegador, a Web desde então tem se tornado mais moderna e interativa, onde podemos fazer várias coisas, entre acessar mídias sociais, fazer uma compra etc.
 
