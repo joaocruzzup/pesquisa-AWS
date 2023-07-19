@@ -17,7 +17,8 @@ Repositório referente a pesquisa que envolve AWS do programa catalisa
 6. [O que é URL?](#o-que-é-url)
 7. [O que é o protocolo HTTP?](#o-que-é-o-protocolo-http)
 8. [O que é uma API REST?](#o-que-é-uma-api-rest)
-9. [Fontes](#fontes)
+9. [Exemplo prático do uso da AWS](#-exemplo-prático-do-uso-do-aws)
+10. [Fontes](#fontes)
 
 ## 💻 O que é um sistema distribuído?
 
@@ -92,7 +93,7 @@ Exemplo de estrutura URL.Fonte: Hostinger Tutoriais.
 ## O que é o protocolo TCP/IP?
 R: O protocolo TCP/IP é um conjunto de regras usado em redes de computadores para troca de dados. O IP cuida do  endereçamento e roteamento  dos pacotes de dados, enquanto o TCP garante a  entrega correta e confiável dos dados. É essencial para a comunicação na Internet.
 
- 	Exemplo: ao acessar um site, o TCP/IP estabelece a conexão,  divide os dados em segmentos, roteia-os pela Internet e os  reorganiza no destino. Garante que a página seja exibida corretamente no navegador. Simplificando, o TCP/IP permite a troca de informações entre dispositivos em redes, tornando possível a navegação e a comunicação online.
+Exemplo: ao acessar um site, o TCP/IP estabelece a conexão,  divide os dados em segmentos, roteia-os pela Internet e os  reorganiza no destino. Garante que a página seja exibida corretamente no navegador. Simplificando, o TCP/IP permite a troca de informações entre dispositivos em redes, tornando possível a navegação e a comunicação online.
 
 ## 🆔 O que é DNS? - Márlen
 
@@ -113,7 +114,22 @@ R: Uma API (Interface de Programação de Aplicativos) é como um canal de comun
 Uma API REST é um tipo específico de API que segue certas diretrizes para facilitar a comunicação entre aplicativos. Ela usa a internet como base e utiliza URLs (endereços) e métodos HTTP (como GET e POST) para solicitar e enviar informações.
 Em termos mais simples.
 
+## ☁️ Exemplo prático do uso da AWS
+
+Nesse exemplo estamos utilizando o Amazon S3 , ele  é amplamente utilizado por empresas de todos os tamanhos para armazenar e compartilhar arquivos, hospedar sites estáticos, fazer backup de dados e servir como repositório de conteúdo para aplicativos web e móveis.
+
+O S3 é projetado para ser altamente durável, seguro e altamente disponível. Ele armazena os objetos em buckets (recipientes), que podem ser organizados hierarquicamente para facilitar a gestão dos dados. Cada objeto no S3 é identificado por uma chave única, que pode ser um nome de arquivo ou um caminho completo.
+
+Os buckets do Amazon S3 são usados para organizar, controlar o acesso, monitorar o uso e identificar a responsabilidade de cobranças no serviço de armazenamento de objetos da AWS.
+
+Para esse exemplo utilizamos um simples código em HTML, você pode acessá-lo clicando aqui: [index.html](index.html)
+
+![print-aws.png](img%2Fprint-aws.png)
+Exemplo do site estático em nuvem
+
+
 ---
+
 ## 📃 Fontes
  - https://tecnoblog.net/responde/o-que-e-html-guia-para-iniciantes/
  - https://www.buscape.com.br/pc-computador/conteudo/o-que-e-html
